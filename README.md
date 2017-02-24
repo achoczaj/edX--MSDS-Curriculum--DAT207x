@@ -9,11 +9,8 @@ The Power BI product team will guide you through Power BI end-to-end, starting f
 
 The course is designed for self-paced study of around 2-4 hours per week for six weeks, including lectures, quizzes, labs and further readings. All quizzes and lab exercises are graded. The quizzes account for 30% of the total grade, the lab exercises accounts for 65% of the total grade, and the mandatory survey accounts for the remaining 5%. You must achieve an overall score of 70% to pass the course.
 
-
 ## Course Outline
-
 ### Module 1: Power BI Desktop Data Transformations
-----
 - Connecting to a Database
 - Basic Data Transformations
 - Managing Queries - creating Query Groups
