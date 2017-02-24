@@ -42,6 +42,7 @@ Data Modelling in Power BI Desktop
 - Optimizing Models for Reporting - hiding unused fields in tables; Modeling - Sort by Column, Data Type, and Data Format
 - Creating Calculated Measures - Create Measure with DAX (the Data Expression Language); Choose Home Table for a Measure;
 > DAX has lots of very useful functions, especially for defining things like time based calculations, Year to Date or Year Over Year calculations.
+
 > YTD Revenue = TOTALYTD(SUM(Sales[Revenue]), 'Date'[Date])
 
 - Creating and Managing Hierarchies
@@ -55,22 +56,22 @@ Data Modelling in Power BI Desktop
 - Manage Table Relationships
   1. create a relationship between tables
   2. review the relationship (cardinality  / Cross filter direction)
-- create Last Year Comparison measures
+- Create Last Year Comparison measures
   1. Total Sales - calculates the total sales
   2. LY Sales - calculates last year sales (use CALCULATE and SAMEPERIODLASTYEAR functions)
   3. Sales Var - calculates sales variance between this year and last year sales
   4. Sales Var % - calculates sales variance between this year and last year sales in percentage (use the DIVIDE function)
-- create Year to Date calculations measures:
+- Create Year to Date calculations measures:
   1. YTD Sales - calculates the YTD sales (use the TOTALYTD function).
   2. LY YTD Sales - calculates last year YTD sales
   3. YTD Sales Var - calculates sales variance between this year and last year YTD sales
   4. YTD Sales Var % - calculates sales variance between this year and last year YTD sales in percentage
-- create Market Share measures:
+- Create Market Share measures:
   1. Total Own Sales - calculates sales where the products manufacturer is the company (Use the CALCULATE function and filter by Manufacturer)
   2. % Sales Market Share - calculates the percentage of sales of company's manufactured products from the total sales
 
 
-### Module 3: Power BI Desktop Visualization
+###`` Module 3: Power BI Desktop Visualization
 ----
 Visualizing Your Data
 Working with Multiple Visualizations
