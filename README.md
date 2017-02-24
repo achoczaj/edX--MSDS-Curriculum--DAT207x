@@ -38,9 +38,9 @@ Data Modelling in Power BI Desktop
 - Optimizing Models for Reporting - hiding unused fields in tables; Modeling - Sort by Column, Data Type, and Data Format
 - Creating Calculated Measures - Create Measure with DAX (the Data Expression Language); Choose Home Table for a Measure;
 
->> DAX has lots of very useful functions, especially for defining things like time based calculations, Year to Date or Year Over Year calculations.
->>
->> YTD Revenue = TOTALYTD(SUM(Sales[Revenue]), 'Date'[Date])
+  > DAX has lots of very useful functions, especially for defining things like time based calculations, Year to Date or Year Over Year calculations.
+  >
+  > YTD Revenue = TOTALYTD(SUM(Sales[Revenue]), 'Date'[Date])
 
 - Creating and Managing Hierarchies
 - Using Calculated Tables
