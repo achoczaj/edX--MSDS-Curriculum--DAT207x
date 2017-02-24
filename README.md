@@ -13,6 +13,7 @@ The course is designed for self-paced study of around 2-4 hours per week for six
 ## Course Outline
 
 ### Module 1: Power BI Desktop Data Transformations
+----
 - Connecting to a Database
 - Basic Data Transformations
 - Managing Queries - creating Query Groups
@@ -28,19 +29,21 @@ The course is designed for self-paced study of around 2-4 hours per week for six
 - Enter Data - create table, pasting data from clipboard formats (e.g. excel tables)
 - Query Parameters - specify a prompt to allow selecting a parameter to filter data pull for a report; saving as Power BI Desktop file; saving as Power BI template and sharing reports   
 
-Lab 1: Merging Files and Transforming Data using Power BI Desktop
+#### Lab 1: Merging Files and Transforming Data using Power BI Desktop
 - Import Data from Access Database
 - Import a Less Structured Data from an Excel File
 
 
 ### Module 2: Power BI Desktop Modelling
+----
 Data Modelling in Power BI Desktop
 - Managing Data Relationships
 - Creating Calculated Columns with a DAX expression
 - Optimizing Models for Reporting - hiding unused fields in tables; Modeling - Sort by Column, Data Type, and Data Format
 - Creating Calculated Measures - Create Measure with DAX (the Data Expression Language); Choose Home Table for a Measure;
-DAX has lots of very useful functions, especially for defining things like time based calculations, Year to Date or Year Over Year calculations.
-YTD Revenue = TOTALYTD(SUM(Sales[Revenue]), 'Date'[Date])
+> DAX has lots of very useful functions, especially for defining things like time based calculations, Year to Date or Year Over Year calculations.
+> YTD Revenue = TOTALYTD(SUM(Sales[Revenue]), 'Date'[Date])
+
 - Creating and Managing Hierarchies
 - Using Calculated Tables
 - Time Intelligence
@@ -48,7 +51,7 @@ YTD Revenue = TOTALYTD(SUM(Sales[Revenue]), 'Date'[Date])
 - Include / Exclude
 - Grouping / Binning
 
-Lab 2:
+#### Lab 2:
 - Manage Table Relationships
   1. create a relationship between tables
   2. review the relationship (cardinality  / Cross filter direction)
@@ -68,24 +71,25 @@ Lab 2:
 
 
 ### Module 3: Power BI Desktop Visualization
+----
 Visualizing Your Data
 Working with Multiple Visualizations
 
-Module 4: Power BI Service
+### Module 4: Power BI Service
 Working with Power BI Service
 Viewing Power BI Dashboard
 
-Module 5: Working with Excel
+### Module 5: Working with Excel
 Connecting and Collaborating with Excel
 
-Module 6: Organization Packs, Security and Groups
+### Module 6: Organization Packs, Security and Groups
 Working with Others
 
-Module 7: Direct Connectivity
+### Module 7: Direct Connectivity
 
-Module 8: Developer API
+### Module 8: Developer API
 
-Module 9: Mobile App
+### Module 9: Mobile App
 
 
 ## My notes
