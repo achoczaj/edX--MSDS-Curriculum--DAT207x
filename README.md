@@ -33,9 +33,8 @@ The course is designed for self-paced study of around 2-4 hours per week for six
 - Import Data from Access Database
 - Import a Less Structured Data from an Excel File
 
-
-### Module 2: Power BI Desktop Modelling
 ----
+### Module 2: Power BI Desktop Modelling
 Data Modelling in Power BI Desktop
 - Managing Data Relationships
 - Creating Calculated Columns with a DAX expression
@@ -71,9 +70,8 @@ Data Modelling in Power BI Desktop
   1. Total Own Sales - calculates sales where the products manufacturer is the company (Use the CALCULATE function and filter by Manufacturer)
   2. % Sales Market Share - calculates the percentage of sales of company's manufactured products from the total sales
 
-
-###`` Module 3: Power BI Desktop Visualization
 ----
+### Module 3: Power BI Desktop Visualization
 Visualizing Your Data
 Working with Multiple Visualizations
 
